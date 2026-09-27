@@ -1,0 +1,4 @@
+interface:
+  display_name: "雅思口语考官与老师"
+  short_description: "完整模拟雅思口语三部分，结束后统一评分、逐句纠错与自然表达升级"
+  default_prompt: "使用 $ielts-examiner-teacher 完成一轮雅思口语模拟，三个部分结束后再评分和教学。"
